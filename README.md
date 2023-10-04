@@ -9,18 +9,24 @@ Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro
 you should replace files from this archive  
 https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
 
-installation manual:
+### Installation manual
 1. Install EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
 2. Install Visual Studio Redistributable 2015 x86 - https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x86.exe
 3. Update files from archive
 4. Run as administrator easyface_en.exe
 
-How to install custom wathface:
+### How to install custom watchfaces
 1. Install latest version of MiFitness mod application (apk, under Android only)
 (type #latestapp in chat - https://t.me/mi_watch_int or find it on channel https://t.me/mi_watch_news)
 2. Open online watchfaces list.
 3. Install any you want
 
+### How to put custom watchface into MiFitness db.
+1. For watchfaces creators we have special chat in telegram, contact me or any group admin into telegram @mi_watch_int
+2. We have an unpacker tool to decompile ready watchfaces and use it in Easyface editor, plus comminuty of experienced people who can assist you in any questions.
+3. Online db has web UI control panel, you can get any ready watchface and use as your base, to adapt to any language you want.
+   Access to this db restricted by watch mac, to keep db consistency, so you should provide me (@m0tral) mac address to get access.
+4. Adding of editors process is manual currently, I going automatizate it later.
 
 ## How to work with watchfaces you can find in wiki section
 https://github.com/m0tral/EasyFace/wiki
