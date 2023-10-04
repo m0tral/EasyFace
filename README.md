@@ -16,8 +16,8 @@ installation manual:
 4. Run as administrator easyface_en.exe
 
 How to install custom wathface:
-1. Install latest version of MiFitness mod application
-(type #latestapp in chat)
+1. Install latest version of MiFitness mod application (apk, under Android only)
+(type #latestapp in chat - https://t.me/mi_watch_int or find it on channel https://t.me/mi_watch_news)
 2. Open online watchfaces list.
 3. Install any you want
 
