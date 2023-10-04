@@ -22,7 +22,7 @@ How to install custom wathface:
 3. Install any you want
 
 
-# How to work with watchfaces you can find in wiki section
+## How to work with watchfaces you can find in wiki section
 https://github.com/m0tral/EasyFace/wiki
 
 # Russian
@@ -39,5 +39,5 @@ https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
 3. Замените файлы из архива EasyFace_Gen2_Compiler_Vxx.zip
 4. Запустите из под админа easyface_en.exe
 
-# Как работать с циферблатами, вы можете почитать в wiki
+## Как работать с циферблатами, вы можете почитать в wiki
 https://github.com/m0tral/EasyFace/wiki
