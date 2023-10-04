@@ -3,7 +3,7 @@ Xiaomi watchfaces editor for various watch, band models by Xiaomi
 
 # English
 
-Warning!!! For watchfaces of watch models older 2021 year:  
+Warning!!! For watchfaces of watch models newer 2021 year:  
 Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active,  
 Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro  
 you should replace files from this archive  
