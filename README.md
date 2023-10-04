@@ -28,22 +28,22 @@ https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
    Access to this db restricted by watch mac, to keep db consistency, so you should provide me (@m0tral) mac address to get access.
 4. Adding of editors process is manual currently, I going automatizate it later.
 
-## How to work with watchfaces you can find in wiki section
+### How to work with watchfaces you can find in wiki section
 https://github.com/m0tral/EasyFace/wiki
 
 # Russian
 
 Внимание!! Для создания циферблатов для часов  
-старше 2021 года, Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active  
+после 2021 года, Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active  
 Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro необходимо после установки  
 редактора Easyface заменить файлы из этого архива.  
 https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
 
-Инструкция по установке:
+### Инструкция по установке
 1. Установите EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
 2. Установите Visual Studio Redistributable 2015 x86 - https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x86.exe
 3. Замените файлы из архива EasyFace_Gen2_Compiler_Vxx.zip
 4. Запустите из под админа easyface_en.exe
 
-## Как работать с циферблатами, вы можете почитать в wiki
+### Как работать с циферблатами, вы можете почитать в wiki
 https://github.com/m0tral/EasyFace/wiki
