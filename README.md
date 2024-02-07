@@ -10,7 +10,7 @@ Redmi Watch 2/3/4, Redmi Watch 3 Active,  Redmi Band Pro, Mi Band 7 Pro,
 Mi Band 8, Mi Band 8 Pro  
    
 you should replace files from this archive  
-https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
+https://miwatch.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV46.zip
 
 ### Installation manual
 1. Install EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
