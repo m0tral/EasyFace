@@ -40,7 +40,7 @@ https://github.com/m0tral/EasyFace/wiki
 после 2021 года, Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active  
 Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro необходимо после установки  
 редактора Easyface заменить файлы из этого архива.  
-https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV42.zip
+https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV46.zip
 
 ### Инструкция по установке
 1. Установите EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
