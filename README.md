@@ -15,8 +15,10 @@ Redmi Watch 3 Active,
 Redmi Band Pro,  
 Mi Band 7 Pro,    
 Mi Band 8,  
-Mi Band 8 Pro    
-Mi Band 9 (coming soon)  
+Mi Band 8 Pro,
+Mi Band 9,    
+Mi Band 9 Pro (coming soon)
+Redmi Watch 5 Active (soon)
    
 you should replace files from this archive  
 https://miwatch.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV46.zip
