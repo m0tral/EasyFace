@@ -20,8 +20,7 @@ Mi Band 9,
 Mi Band 9 Pro (coming soon),  
 Redmi Watch 5 Active (soon)
    
-you should replace files from this archive  
-https://miwatch.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV46.zip
+you should replace files from release archive  
 
 ### Installation manual
 1. Install EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
@@ -50,8 +49,7 @@ https://github.com/m0tral/EasyFace/wiki
 Внимание!! Для создания циферблатов для часов  
 после 2021 года, Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active  
 Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro необходимо после установки  
-редактора Easyface заменить файлы из этого архива.  
-https://www.conversmod.ru/micolor/files/EasyFace_Gen2_CompilerV46.zip
+редактора Easyface заменить файлы из этого архив релиза,ссылка вверху или справа. 
 
 ### Инструкция по установке
 1. Установите EasyFace_setup.msi - https://drive.google.com/drive/folders/1mtKY4VPxt7iCHEGvDxTw743v9ZUAG20N
