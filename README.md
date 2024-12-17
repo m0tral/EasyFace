@@ -10,6 +10,7 @@ Xiaomi Watch S1,
 Xiaomi Watch S1 Pro,  
 Xiaomi Watch S2,  
 Xaiomi Watch S3,   
+Xaiomi Watch S4,
 Redmi Watch 2/3/4,  
 Redmi Watch 3 Active,  
 Redmi Band Pro,  
@@ -17,8 +18,9 @@ Mi Band 7 Pro,
 Mi Band 8,  
 Mi Band 8 Pro,  
 Mi Band 9,    
-Mi Band 9 Pro (coming soon),  
-Redmi Watch 5 Active (soon)
+Mi Band 9 Pro,  
+Redmi Watch 5 Active/Lite,
+Redmi Watch 5,
    
 you should replace files from release archive  
 
