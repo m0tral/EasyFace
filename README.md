@@ -1,5 +1,15 @@
 # EasyFace
-Xiaomi watchfaces editor for various watch, band models by Xiaomi
+Xiaomi watchfaces editor for various watch, band models by Xiaomi.  
+
+Hey guys, good news, we have very powerful [Emulator](https://github.com/m0tral/MiWatchEmulator)  
+
+I've took emulator from Xiami IDE for apps, as it emulates whole watch S3 system,  
+and finally they fixed adb interface, so we can test watchfaces directly on it.  
+
+I've cut all necessary files and pack in one archive, so what you need, unpack in and run.  
+Easyface Compiler will push a ready watchface into emulator after build automatically.  
+
+Via adb we can have access to whole system shell, NuttX core, so you can look how is fun a system inside.  
 
 # English
 
