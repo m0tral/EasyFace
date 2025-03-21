@@ -50,7 +50,7 @@ you should replace files from release archive
 1. For watchfaces creators we have special chat in telegram, contact me or any group admin into telegram @mi_watch_int
 2. We have an unpacker tool to decompile ready watchfaces and use it in Easyface editor, plus community of experienced editors who can assist you in any questions.
 3. Online db has web UI control panel, you can get any ready watchface and use as your base, to adapt to any language you want for example.
-   Access to this db restricted by watch mac, to keep db consistency, so you should provide me (@m0tral) mac address of your watch/band to get access.
+   Access to this db restricted by watch mac, to keep db consistency, so you should provide any chat admin mac address of your watch/band to get access
 4. Adding of editors process is manual currently, I going automatizate it later.
 
 ### How to work with watchfaces you can find in wiki section
